@@ -1,7 +1,7 @@
 # Online Drumkit
 This is a simple game made using JavaScript.
 - It let's you drum either by mouse click or specified keyboard keys.
-- Hosted @ -https://kuria-byte.github.io/drums/
+- Hosted @ -https://kuria-byte.github.io/Drumkit/
 
 ##  About
 ![Drums](https://user-images.githubusercontent.com/61579772/83941517-9de90200-a81e-11ea-834a-fcf709febd84.jpg)
